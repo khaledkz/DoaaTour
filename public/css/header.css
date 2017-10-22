@@ -1,0 +1,69 @@
+.my-header{
+    background-color: #F1F5EF;
+    height: 100px;
+     color: white;
+   
+     width:100%;
+  }
+  .leftDiv h3{
+      color: #1037E7
+ }
+
+header ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+ 
+
+
+.leftDiv img{
+     height: 150px;
+    margin-top: -25px;
+   }
+ 
+  div .leftDiv{
+    display: flex!important;
+    flex-direction: row;
+     height: 100px;
+    margin-left:-40px; 
+      
+    }
+   .leftDiv h3{
+     margin-top:41px;
+     font-size: 28px;
+      
+   }
+ 
+
+ .rightDiv img{
+    width:40px;
+    height: 40px;
+    margin-right:5px; 
+  }
+  
+  .rightDiv{
+     display: flex;
+    flex-direction: row;
+     height: 100px;
+    align-items: center; 
+    font-family: Georgia, Times, "Times New Roman", serif;   
+    color: #1037E7
+    
+    
+   }
+  
+ .callUs h4{
+     margin-left: 16px;
+     font-size: 23px;
+ }
+
+ @media (max-width: 823px) { 
+  
+ .leftDiv h3{
+font-size:20px;
+ }
+ 
+}
