@@ -1,19 +1,17 @@
  
 .leftFooter{
-     border:solid 1px #1409AC;
-     padding: 10px;
+      padding: 10px;
      
 }
 
 .rightFooter{
-     border:solid 1px #1409AC;
-     padding: 10px;
+      padding: 10px;
      
 }
 
 footer{
     display: flex;
-    background: #ABABB1;
+    background: #4C4C58;
     flex-direction: column;
     padding: 10px;
     
@@ -22,7 +20,7 @@ footer{
 .leftFooter p{
     width:80%;
     font-size:16px;
-    color: #07239E;
+    color: #E5E7EE;
     padding: 6px;
     
     
@@ -30,7 +28,7 @@ footer{
  }
  .leftFooter h3{
    
-    color: #07239E
+    color: #E5E8F3
     
  }
 .leftFooter{
@@ -42,8 +40,7 @@ footer{
 
  
 .rightFooter iframe{
-    margin-left:10%;
-    margin-top:8px;
+     margin-top:8px;
 }
 @media (min-width: 823px) { 
     footer{
@@ -57,4 +54,6 @@ footer{
     .rightFooter{
         width:50%;
         }
+        .leftFooter{
+            border-right:solid 1px #020202;}
 }    

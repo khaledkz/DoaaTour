@@ -1,11 +1,10 @@
 *{
     margin: 0px;
     padding: 0px;
-    color:#060F5A;
-    font-family: fantasy;
+     font-family: fantasy;
 }
 a{
-    text-decoration: none
+    text-decoration: none!important;
 }
 .basedInScot{
     color:060F5A;
@@ -83,3 +82,21 @@ margin-top: 30px
         font-size:20px;
     }
 }    
+
+.hostel-cards h3{
+    text-align: center!important;
+}
+.hostleName{
+    color:blue;
+     margin-top:40px;
+ }
+ .dots{
+     color:red;
+     margin-bottom:40px;
+     
+ }
+
+ .hotels-title{
+     color:#33FF00;
+     margin-top:30px;
+ }
